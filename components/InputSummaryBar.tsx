@@ -21,7 +21,7 @@ export function InputSummaryBar({
             Current game snapshot
           </p>
           <p className="text-sm text-slate-300">
-            These are the coaching signals CoachLens will use to build the next
+            These are the coaching signals Pivot will use to build the next
             practice plan.
           </p>
         </div>

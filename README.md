@@ -1,6 +1,6 @@
-# CoachLens
+# Pivot
 
-CoachLens is a single-page AI basketball coaching assistant built for a hackathon MVP. It turns a coach's team identity, observed game issues, and free-form notes into:
+Pivot is a single-page AI basketball coaching assistant built for a hackathon MVP. Find what changes games — it turns a coach's team identity, observed game issues, and free-form notes into:
 
 - Root cause analysis
 - Top development priorities for the next practice

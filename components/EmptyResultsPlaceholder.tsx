@@ -23,7 +23,7 @@ export function EmptyResultsPlaceholder({
             Pick what broke down. Get a practice plan in seconds.
           </h2>
           <p className="max-w-xl text-sm leading-6 text-slate-300">
-            CoachLens turns your game issues into one weekly target, clear
+            Pivot turns your game issues into one weekly target, clear
             priorities, and drills you can run in the next practice.
           </p>
 

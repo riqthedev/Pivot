@@ -6,10 +6,10 @@ export function Header() {
       </div>
       <div className="space-y-4">
         <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl lg:text-6xl">
-          CoachLens
+          Pivot
         </h1>
         <p className="max-w-3xl text-lg leading-7 text-slate-100 sm:text-xl">
-          Last night&apos;s game to tomorrow&apos;s practice.
+          Find what changes games.
         </p>
         <p className="max-w-3xl text-base leading-7 text-slate-300 sm:text-lg">
           Turn the issues you saw on the floor into a clear diagnosis, the next

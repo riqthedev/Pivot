@@ -24,7 +24,7 @@ const confidenceClasses: Record<ConfidenceLevel, string> = {
 
 function formatAnalysisForClipboard(analysis: AnalysisResponse) {
   return [
-    "CoachLens Practice Plan",
+    "Pivot Practice Plan",
     "",
     "Why it showed up",
     ...analysis.rootCauses.flatMap((cause, index) => [
@@ -253,7 +253,7 @@ export function AnalysisResults({
         <div className="rounded-3xl border border-white/10 bg-surface/80 p-6">
           <h3 className="text-lg font-semibold text-white">Unstructured response</h3>
           <p className="mt-2 text-sm text-slate-400">
-            CoachLens could not shape this response into the normal practice-plan
+            Pivot could not shape this response into the normal practice-plan
             format, so the raw response is shown below.
           </p>
           <pre className="mt-4 overflow-x-auto rounded-2xl border border-white/10 bg-black/20 p-4 text-sm whitespace-pre-wrap text-slate-200">

@@ -144,7 +144,7 @@ export default function Home() {
             Start with what broke down.
           </p>
           <p className="text-sm text-slate-400">
-            Pick the game issues first, then CoachLens will turn them into a plan
+            Pick the game issues first, then Pivot will turn them into a plan
             coaches can actually run tomorrow.
           </p>
         </div>

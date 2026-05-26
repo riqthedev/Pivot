@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CoachLens",
+  title: "Pivot",
   description:
-    "Basketball coaching assistant for turning game observations into targeted practice decisions.",
+    "Find what changes games. Turn game observations into targeted practice decisions.",
 };
 
 export default function RootLayout({

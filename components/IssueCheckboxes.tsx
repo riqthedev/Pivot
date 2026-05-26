@@ -61,7 +61,7 @@ export function IssueCheckboxes({
       <div className="space-y-1">
         <h2 className="text-xl font-semibold text-white">What broke down?</h2>
         <p className="text-sm text-slate-400">
-          Pick the problems that showed up in the game. CoachLens will work back
+          Pick the problems that showed up in the game. Pivot will work back
           from those issues before suggesting drills.
         </p>
       </div>
